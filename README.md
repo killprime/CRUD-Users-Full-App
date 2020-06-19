@@ -32,7 +32,7 @@ Connection settings in the file - `.env`
 
 `$ knex seed:run`
 
-## Build app
+## Run build  
 
 `$ npm run build`
 
