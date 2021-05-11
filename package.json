@@ -57,7 +57,7 @@
     "jquery": "^3.5.1",
     "knex": "^0.21.1",
     "knex-paginate": "^1.2.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.4",
     "normalize.css": "^8.0.1",
